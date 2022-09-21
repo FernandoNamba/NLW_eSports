@@ -1,4 +1,3 @@
-=======
 # NLW eSports - Rocketseat :rocket: 
 
 ![preview](./.github/preview.png)
