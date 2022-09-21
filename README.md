@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-Curso de Front-End basic trabalhando com HTML, CSS e JavaScript.
+Curso de Front-End basic trabalhando com HTML, CSS, Git e GitHub.
 > Trilha Explorer
 
 Projeto construído do evento Next Level Week da Rocketseat
