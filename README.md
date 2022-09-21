@@ -1,32 +1,37 @@
-# NLW eSports - Rocketseat :rocket:
+=======
+# NLW eSports - Rocketseat :rocket: 
 
 ![preview](./.github/preview.png)
 
+Curso de Front-End basic trabalhando com HTML, CSS, Git e GitHub.
 > Trilha Explorer
 
-Projeto construído do evento Next Level Week da Rocketseat.
+Projeto construído do evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://fernandonamba.github.io/NLW_eSports/)
+:link: [Clique aqui para acessar](https://fernandonamba.github.io/NLW_eSports/)
 
 
 ## :wrench: Tecnologias
 
 - HTML
 - CSS
-- Git
+- GIT
 - GitHub
 
-## O que aprendi? 
-<h3><b>* CSS </b></h3>
-- Utilização do nth-child
-- Utilização do background-img no repeat 
-- @keyframe
+## O que Aprendi?
+  <h2>CSS</h2>
 
-<h3><b>* GIT </b></h3>
-- Etapas básicas de GIT
+ - Utilização do nth-child <br>
+ - @keyframe<br>
+ - Utilização do background-img no repeat e background-color<br>
 
-<h3><b>* GITHUB </b></h3>
-- GitHub Pages
+  <h2>GIT</h2>
+
+ - Etapas básicas de Git 
+
+  <h2>GITHUB</h2>
+
+ - GitHub Pages
 
 ## :heart: Contato
 :email: namba.fernando@gmail.com
